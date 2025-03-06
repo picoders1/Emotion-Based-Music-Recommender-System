@@ -33,5 +33,8 @@ This project depends on Python and following packages which can be easily instal
 - Deploying the web app.
 - Integration of an inbuilt music player using  SpotiPy library, with spotify authentication.
 - Addition of more gestures, and control of volume using gesture detection.
-- Improved Reliablity and addition of User Feedback 
+- Improved Reliablity and addition of User Feedback
+
+
+## Thank You!!
 
