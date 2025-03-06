@@ -28,7 +28,6 @@ This project depends on Python and following packages which can be easily instal
  - [app](/app.py) This file contain the setup of final web app.
  - [model](/model.h5) This file contains the trained model.
  - [Emotion Detection](./Emotion%20Detection) This folder contains python scripts to train the model.
- - [.streamlit](./.streamlit) This folder contains configuration files for the streamlit theme in Web App.
 
 ### Future Scope
 - Deploying the web app.
