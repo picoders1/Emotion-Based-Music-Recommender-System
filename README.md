@@ -13,7 +13,7 @@ The model is trained for 50 epochs and runs at 87% accuracy.
 ### Dependencies
 This project depends on Python and following packages which can be easily installed through `requirements.txt` file by running the following command:
 `pip install -r requirements.txt`
-- Python 3.9.6
+- Python 3.9
 - pip 22.1.1
 - streamlit 1.9.1
 - streamlit-webrtc 0.37.0
