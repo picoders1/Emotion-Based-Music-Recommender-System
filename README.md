@@ -19,6 +19,8 @@ This project depends on Python and following packages which can be easily instal
 - streamlit-webrtc 0.37.0
 - opencv-python 4.5.5.64
 - mediapipe 0.8.10
+- face-Recognition
+- deepface
 
 ### System Architechture
 ![image](https://user-images.githubusercontent.com/81975567/170823667-70ffb002-f1bd-4578-b9a0-4ed32baee51d.png)
