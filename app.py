@@ -124,7 +124,7 @@ if btn:
 		st.session_state["run"] = "false"
 
 
-st.write('Made by ❤ INDIRA')
+st.write('Made by ❤ PIKU')
 
 #Streamlit Customisation
 st.markdown(""" <style>
