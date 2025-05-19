@@ -1,4 +1,4 @@
-## Facial emotion detection based music recommendation system
+# Facial emotion detection based music recommendation system
 
 ### About
 This repository demonstrates an end-to-end pipeline for real-time Facial emotion recognition application along with reccommending music based on detected emotions.
