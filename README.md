@@ -25,7 +25,7 @@ This project depends on Python and following packages which can be easily instal
 ## System Architechture
 ![image](https://user-images.githubusercontent.com/81975567/170823667-70ffb002-f1bd-4578-b9a0-4ed32baee51d.png)
 
-### Repository Structure
+## Repository Structure
  This repository is organised as:
  - [app](/app.py) This file contain the setup of final web app.
  - [model](/model.h5) This file contains the trained model.
