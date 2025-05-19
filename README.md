@@ -1,6 +1,6 @@
 # Facial emotion detection based music recommendation system
 
-### About
+## About
 This repository demonstrates an end-to-end pipeline for real-time Facial emotion recognition application along with reccommending music based on detected emotions.
 Done in three steps:
 1. Face Detection: from the video source using OpenCV.
