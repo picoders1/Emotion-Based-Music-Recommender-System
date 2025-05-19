@@ -10,7 +10,7 @@ Done in three steps:
 The model is trained for 50 epochs and runs at 87% accuracy.
 ![image](https://user-images.githubusercontent.com/81975567/170823927-bd313103-7b34-42fd-9635-1b913ec65667.png)
 
-### Dependencies
+## Dependencies
 This project depends on Python and following packages which can be easily installed through `requirements.txt` file by running the following command:
 `pip install -r requirements.txt`
 - Python 3.9
