@@ -22,7 +22,7 @@ This project depends on Python and following packages which can be easily instal
 - face-Recognition
 - deepface
 
-### System Architechture
+## System Architechture
 ![image](https://user-images.githubusercontent.com/81975567/170823667-70ffb002-f1bd-4578-b9a0-4ed32baee51d.png)
 
 ### Repository Structure
