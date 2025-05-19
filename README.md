@@ -31,7 +31,7 @@ This project depends on Python and following packages which can be easily instal
  - [model](/model.h5) This file contains the trained model.
  - [Emotion Detection](./Emotion%20Detection) This folder contains python scripts to train the model.
 
-### Future Scope
+## Future Scope
 - Deploying the web app.
 - Integration of an inbuilt music player using  SpotiPy library, with spotify authentication.
 - Addition of more gestures, and control of volume using gesture detection.
